@@ -16,14 +16,14 @@ Use Android Technologies.
 
 # Weight
 
-![Weight](/Screenshot/weight.PNG?raw=true "Weight")
+![Weight](/Screenshot/weight.png?raw=true "Weight")
 
 
 # Curves
 
-![Curves](/Screenshot/curve.PNG?raw=true "Curves")
+![Curves](/Screenshot/curve.png?raw=true "Curves")
 
 
 # Map
 
-![Google map](/Screenshot/map.PNG?raw=true "Google map")
+![Google map](/Screenshot/map.png?raw=true "Google map")
